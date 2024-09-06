@@ -37,10 +37,10 @@ class Main {
 
 
 // User function Template for Java
-class Solution {
 
-    // arr: input array
-    // Function to find the sum of contiguous subarray with maximum sum.
+
+// User function Template for Java
+class Solution {
     long maxSubarraySum(int[] arr) {
 
         // Your code here
@@ -54,4 +54,3 @@ class Solution {
         return max_val;
     }
 }
-
